@@ -1,0 +1,14 @@
+{
+	Manifest :
+	{
+		Version : "1.0",
+		ApplicationData : 
+		[
+			{
+				ApplicationTitle : "MyTestApp",
+				ApplicationDescription : "Test Application to demonstrate download ability",
+				ApplicationApproxSize : 3024214
+			}
+		]
+	}
+}
