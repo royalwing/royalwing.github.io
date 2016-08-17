@@ -8,6 +8,11 @@
 				"ApplicationTitle" : "MyTestApp",
 				"ApplicationDescription" : "Test Application to demonstrate download ability",
 				"ApplicationApproxSize" : "3024214"
+			},
+			{
+				"ApplicationTitle" : "MyTestApp2",
+				"ApplicationDescription" : "Test Application to demonstrate download ability",
+				"ApplicationApproxSize" : "3024214"
 			}
 		]
 	}
