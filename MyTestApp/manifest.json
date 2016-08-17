@@ -1,7 +1,1 @@
-{
-	"Manifest" :
-	{
-		"Version" : "1.0",
-		"AppTitle": "MyApp1"
-	}
-}
+{"Manifest":{"AppTitle":"MyTestApp"},{"Files":[{{"File":"dqdqwd.txt"},{"Hash":"a11bab432e14d8c5eac2912eb266e9087532d8597973a76f53fb6d2036665619"}}]}}
