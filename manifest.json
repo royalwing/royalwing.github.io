@@ -9,12 +9,6 @@
 				"ApplicationDescription" : "Test Application to demonstrate download ability",
 				"ApplicationManifestURL" : "MyTestApp/manifest.json",
 				"ApplicationApproxSize" : "3024214"
-			},
-			{
-				"ApplicationTitle" : "MyTestApp2",
-				"ApplicationDescription" : "Test Application to demonstrate download ability",
-				"ApplicationManifestURL" : "MyTestApp2/manifest.json",
-				"ApplicationApproxSize" : "3024214"
 			}
 		]
 	}
