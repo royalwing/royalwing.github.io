@@ -1,1 +1,1 @@
-{"Manifest":{"AppTitle":"MyTestApp","Files":[,{"File":"testApp.app","Hash":""},{"File":"TestFolder\testApp.app","Hash":""}]}}
+{"Manifest":{"AppTitle":"MyTestApp","Files":[{"File":"testApp.app","Hash":""},{"File":"TestFolder\testApp.app","Hash":""}]}}
