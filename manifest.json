@@ -5,9 +5,9 @@
 		"ApplicationData" : 
 		[
 			{
-				"ApplicationTitle" : "MyTestApp",
-				"ApplicationDescription" : "Test Application to demonstrate download ability",
-				"ApplicationManifestURL" : "MyTestApp/manifest.json",
+				"ApplicationTitle" : "GUI",
+				"ApplicationDescription" : "Demoversion of RWGUI",
+				"ApplicationManifestURL" : "GUI/manifest.json",
 				"ApplicationApproxSize" : "3024214"
 			}
 		]
